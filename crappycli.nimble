@@ -5,6 +5,7 @@ author        = "Steve Kellock"
 description   = "Crappy cli argument parsing."
 license       = "MIT"
 srcDir        = "src"
+bin           = @["crappycli"]
 
 # Dependencies
 
